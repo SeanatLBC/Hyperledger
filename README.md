@@ -1,5 +1,8 @@
 # Hyperledger
 
+
+Hyperledger is an open source collaborative effort created to advance cross-industry blockchain technologies. It is a global collaboration, hosted by The Linux Foundation, including leaders in finance, banking, Internet of Things, supply chains, manufacturing and Technology.
+
 If you do not know where to start or are looking to overcome a specific hurdle with your Hyperledger Project, what you seek may be right below.  Feel free to reach out if you do not find it....
 
 8 Steps to a Blockchain Solution (Template / Checklist) - https://www.entrepreneur.com/article/300077
