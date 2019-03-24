@@ -64,7 +64,15 @@ Iroha Overview:  https://hyperledger.github.io/iroha-api/#overview
 
 INDY
 
+Main:  https://www.hyperledger.org/projects/hyperledger-indy
+
 Zero Knowledge Proofs:  https://en.wikipedia.org/wiki/Zero-knowledge_proof
+
+QUILT
+
+Main:  https://www.hyperledger.org/projects/quilt
+
+Video from Hyperledger Greenhouse - Indy:  https://www.youtube.com/watch?v=dhWjFGp1els
 
 ORACLE
 
