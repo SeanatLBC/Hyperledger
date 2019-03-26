@@ -73,6 +73,8 @@ Zero Knowledge Proofs:  https://en.wikipedia.org/wiki/Zero-knowledge_proof
    *  Interledger Protocol (ILP):  https://interledger.org/rfcs/0003-interledger-protocol/
    
    *  Interledger Github:  https://github.com/interledger
+   
+   *  Sovrin (and DiD VIDEO):  https://sovrin.org/
 
 QUILT
 
