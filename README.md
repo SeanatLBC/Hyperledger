@@ -25,6 +25,8 @@ Fabric Channels (by Blockchain Mentors):  http://www.bcmentors.com/fabric-privac
 
 MSPs - https://hyperledger-fabric.readthedocs.io/en/release-1.3/membership/membership.html
 
+Hyperledger - Transfer Balances:  https://github.com/hyperledger/fabric-samples/tree/release-1.4/balance-transfer
+
 COMPOSER:
 
 Build A Tuna Network (Linux):  https://github.com/hyperledger/education/tree/master/LFS171x/composer-material.
