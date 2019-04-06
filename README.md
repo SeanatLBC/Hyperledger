@@ -15,7 +15,7 @@ HYPERLEDGER
 
 Enterprise File Fabric:  https://blog.storagemadeeasy.com/using-the-enterprise-file-fabric-with-blockchain-for-secure-governance-and-compliance-of-company-files/#more-6694
 
-Linux Foundation Certification:  https://courses.edx.org/certificates/1ddea9dedb204d4395519dbe7ab925a2
+Hyperl;edger Certifications:  https://medium.com/devopslinks/thinking-of-a-hyperledger-certifications-lets-explore-the-options-7740c634df37
 
 Hyperledger Wiki:  https://wiki.hyperledger.org/
 
