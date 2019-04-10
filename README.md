@@ -27,6 +27,8 @@ MSPs - https://hyperledger-fabric.readthedocs.io/en/release-1.3/membership/membe
 
 Hyperledger - Transfer Balances:  https://github.com/hyperledger/fabric-samples/tree/release-1.4/balance-transfer
 
+Setting up Fabric Network with FabDep (GUI Based Auto Fabric Deployer): https://www.youtube.com/watch?v=WgGCbSb1lJE
+
 COMPOSER:
 
 Build A Tuna Network (Linux):  https://github.com/hyperledger/education/tree/master/LFS171x/composer-material.
