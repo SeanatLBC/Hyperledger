@@ -62,6 +62,8 @@ IROHA
 
 Main Github:  https://github.com/hyperledger/iroha
 
+Iroha UseCase Page - Aug 2019:  https://soramitsu.co.jp/iroha
+
 Iroha Android Github:  https://github.com/hyperledger/iroha-android
 
 Iroha Overview:  https://hyperledger.github.io/iroha-api/#overview
