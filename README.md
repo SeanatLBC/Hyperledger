@@ -13,6 +13,8 @@ Virtualbox Manual:  https://www.virtualbox.org/manual/
 
 HYPERLEDGER
 
+Setting up on Your Computer:  https://medium.com/akeo-tech/step-by-step-guide-to-set-up-hyperledger-fabric-network-b80977c29b8a
+
 Enterprise File Fabric:  https://blog.storagemadeeasy.com/using-the-enterprise-file-fabric-with-blockchain-for-secure-governance-and-compliance-of-company-files/#more-6694
 
 Hyperl;edger Certifications:  https://medium.com/devopslinks/thinking-of-a-hyperledger-certifications-lets-explore-the-options-7740c634df37
