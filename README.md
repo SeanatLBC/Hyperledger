@@ -15,7 +15,7 @@ HYPERLEDGER
 
 Setting up on Your Computer:  https://medium.com/akeo-tech/step-by-step-guide-to-set-up-hyperledger-fabric-network-b80977c29b8a
 
-How to Set Up Video:  https://video.search.yahoo.com/search/video;_ylt=AwrEzeZN9tRedc8ALaVXNyoA;_ylu=X3oDMTEzZDcyNzk0BGNvbG8DYmYxBHBvcwMxBHZ0aWQDREZENl8xBHNlYwNwaXZz?p=setting+up+hyperledger+fabric+on+a+computer&fr2=piv-web&fr=mcafee#id=1&vid=e54bebb5c3ca8bcaa2c130165d475e17&action=view
+How to Set Up Video: https://youtu.be/eWIa-hfn2WE
 
 Enterprise File Fabric:  https://blog.storagemadeeasy.com/using-the-enterprise-file-fabric-with-blockchain-for-secure-governance-and-compliance-of-company-files/#more-6694
 
