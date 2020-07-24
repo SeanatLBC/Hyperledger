@@ -33,6 +33,11 @@ Hyperledger - Transfer Balances:  https://github.com/hyperledger/fabric-samples/
 
 Setting up Fabric Network with FabDep (GUI Based Auto Fabric Deployer): https://www.youtube.com/watch?v=WgGCbSb1lJE
 
+HYPERLEDGER VIDEOS:
+
+     *  Walmart DLT with Hyperledger (total supplychain digitization and elimination of friction and reconciliation):  https://youtu.be/XqXL3kPsBj8
+    
+
 COMPOSER:
 
 Build A Tuna Network (Linux):  https://github.com/hyperledger/education/tree/master/LFS171x/composer-material.
