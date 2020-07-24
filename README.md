@@ -35,7 +35,7 @@ Setting up Fabric Network with FabDep (GUI Based Auto Fabric Deployer): https://
 
 HYPERLEDGER VIDEOS:
 
-     *  Walmart DLT with Hyperledger (total supplychain digitization and elimination of friction and reconciliation):  https://youtu.be/XqXL3kPsBj8
+Walmart DLT with Hyperledger (total supplychain digitization and elimination of friction and reconciliation):  https://youtu.be/XqXL3kPsBj8
     
 
 COMPOSER:
